@@ -1,0 +1,54 @@
+Blockchain Essentials - Day 1 Assignment - Answers
+
+Question 1:
+What is your understanding of Blockchain?
+
+Answer: 
+Blockchain is a mix of  distributed database and cryptography where information is 
+-Unchangeable, 
+-Tamper-proof
+-Immutable 
+-Verifiable.
+Blockchain is more philosophy kind of thing with technology, i.e. a practice by doing which we can avoid hacking, can increase security.
+
+
+Question 2:
+What is the core problem Blockchain trying to solve?
+
+Answer: 
+The core problem Blockchain trying to solve are – 
+1. Security 
+2. Authenticity
+3. Eliminate third party for  trust
+Blockchain addresses the problem of data security and trust by making the ledger public, the problem of data loss due to hardware or connectivity issues and the problem of data corruption due to intermittent hardware or connectivity issues, etc.
+
+Question 3:
+What are the few features which Blockchain will give you?
+
+Answer: 
+1.Verifiable
+2.Immutable 
+3.Tamper – proof
+4.Unchangeable
+5.Decentralized technology
+
+Question 4:
+What all things does a Block contain?
+
+Answer:
+A block contains – 
+1.Block number
+2.Transaction records-data
+3.Previous block signature
+4.Mining Key
+
+
+Question 5:
+How is the verifiability of Blockchain has been attained?
+Answer: 
+Verifiability of Blockchain is achieved with the help of distributed database system. In this system, every user has a same record of all the transactions taken. In this process all the users are have the same data and hashes and the same hash at the end. Hash is simply a fingerprint (code/key) which is used to check whether everyone has the correct chronological order of the data.
+Block 1 = A + B = C
+Block 2 = C + D = F
+Where, 
+A is Genesis Block meams no previous signature is stored  and 
+B & D are data to be stored.
